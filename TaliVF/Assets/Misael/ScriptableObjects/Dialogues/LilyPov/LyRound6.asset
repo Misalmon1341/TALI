@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b584f805d8ca541b0e5b060eef85f4, type: 3}
+  m_Name: LyRound6
+  m_EditorClassIdentifier: 
+  dialogueTurnsList:
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: 'No. Andando.
+
+'
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 32b6c501f8bd6d049b67f85cc14d3271, type: 3}
+    Person2: {fileID: 21300000, guid: dc32f401de7d50c4e9f3596cabd0ad29, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 1
+    hideImagePerson2: 1
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: Bueno...
+    isPerson1: 1
+    Person1: {fileID: 21300000, guid: 6f5af7c2528659b4697eeff2e9ba0387, type: 3}
+    Person2: {fileID: 21300000, guid: d78d57608e63fd14e919650066b2b2e4, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 1
+    hideImagePerson2: 1
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "(Tengo miedo. Mis amigos ya no est\xE1n y mami tampoco, \xBFestar\xE1n
+      bien? \xBFpor qu\xE9 no nos esperaron?)\r\n\r"
+    isPerson1: 1
+    Person1: {fileID: 21300000, guid: 15aa9bc3121af9b49b46e4e41b7da14d, type: 3}
+    Person2: {fileID: 21300000, guid: 080845c2e71958144a010b83c0629f9d, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 1
+    hideImagePerson2: 1
+    dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "(\xBFPor qu\xE9 las personas s\xF3lo nos miran y no nos ayudan?\r\n\xBFPor
+      qu\xE9 nos miran de esa manera?\r\nNo somos monstruos.)\r\n"
+    isPerson1: 1
+    Person1: {fileID: 21300000, guid: a900af63d00f9824ebcfad4f3f9b5d1d, type: 3}
+    Person2: {fileID: 21300000, guid: d2b94de953ff77e4e8201bad6240614f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 1
+    hideImagePerson2: 1
+    dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "(Ya ha pasado mucho tiempo. Mami\u2026 \xBFd\xF3nde est\xE1s?
+      se hace de noche y tengo mucha hambre\u2026 )\r\n\r\n"
+    isPerson1: 1
+    Person1: {fileID: 21300000, guid: 7001bec378b267c42b452b060e82b1cf, type: 3}
+    Person2: {fileID: 21300000, guid: 080845c2e71958144a010b83c0629f9d, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 1
+    hideImagePerson2: 1
+    dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "Ya me cans\xE9\u2026\xBFPodemos descansar un rato?\r\n"
+    isPerson1: 1
+    Person1: {fileID: 21300000, guid: 6f5af7c2528659b4697eeff2e9ba0387, type: 3}
+    Person2: {fileID: 21300000, guid: a24674ee8bc2cbe4bb2b4be0cf790a12, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 1
+    hideImagePerson2: 1
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "No, tenemos que llegar a alg\xFAn lado.\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 6cdb3ff30c551bf468812ee8fe666fb1, type: 3}
+    Person2: {fileID: 21300000, guid: d78d57608e63fd14e919650066b2b2e4, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 1
+    hideImagePerson2: 1
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}

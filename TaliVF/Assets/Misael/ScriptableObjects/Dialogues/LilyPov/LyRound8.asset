@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b584f805d8ca541b0e5b060eef85f4, type: 3}
+  m_Name: LyRound8
+  m_EditorClassIdentifier: 
+  dialogueTurnsList:
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "(\xA1!)\r\n"
+    isPerson1: 1
+    Person1: {fileID: 21300000, guid: 877c806b7d0ea79428060444e96c25b8, type: 3}
+    Person2: {fileID: 21300000, guid: d78d57608e63fd14e919650066b2b2e4, type: 3}
+    personajeInvisible: 1
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: 'Finalmente un lugar donde dormir. Vamos, entremos.
+
+'
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 32b6c501f8bd6d049b67f85cc14d3271, type: 3}
+    Person2: {fileID: 21300000, guid: d78d57608e63fd14e919650066b2b2e4, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}

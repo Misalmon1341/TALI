@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b584f805d8ca541b0e5b060eef85f4, type: 3}
+  m_Name: Escena5
+  m_EditorClassIdentifier: 
+  dialogueTurnsList:
+  - <Character>k__BackingField: {fileID: 11400000, guid: 839186ab631a8ba49872107c2dfaccad, type: 2}
+    dialogueLine: "Shhhh\u2026no hagas ning\xFAn ruido o nos descubrir\xE1n peque\xF1a\u2026\r\n"
+    Person1: {fileID: 0}
+    Person2: {fileID: 0}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 839186ab631a8ba49872107c2dfaccad, type: 2}
+    dialogueLine: "Rel\xE1jate cari\xF1o\u2026 S\xF3lo tienes que ser una buena ni\xF1a
+      como siempre\u2026\r\n"
+    Person1: {fileID: 0}
+    Person2: {fileID: 0}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 2f7d8bf8d4de8754b9a15d564e26d094, type: 2}
+    dialogueLine: ": T\xFA\u2026\xA1maldita! \xBF\xA1C\xF3mo te atreves a hacer \xE9sto?! 
+      \xA1\xA1Largo de aqu\xED!!\r\n"
+    Person1: {fileID: 0}
+    Person2: {fileID: 0}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: Ayudaaa!!
+    Person1: {fileID: 21300000, guid: e197baed25b0b9f498a1edf0a95130a3, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "\xBF\xA1Qu\xE9 diablos te pasa?! \xBF\xA1Enloqueciste?! \xA1\xA1Du\xE9rmete
+      de una vez!!\r\n"
+    Person1: {fileID: 21300000, guid: d25c1a80482c9df4f9bdd875e751d3c5, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
