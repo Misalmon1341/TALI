@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b584f805d8ca541b0e5b060eef85f4, type: 3}
+  m_Name: LyRound5
+  m_EditorClassIdentifier: 
+  dialogueTurnsList:
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "(Me alegra mucho que sigan intactas a pesar del derrumbe, mami
+      debio cuidarlas bien\u2026 Son tan bonitas.)\r\n"
+    isPerson1: 1
+    Person1: {fileID: 21300000, guid: 0d2ad052016b9c44296ad11aa5e4353b, type: 3}
+    Person2: {fileID: 21300000, guid: 5cb2c2be7f26e1f41bbd3b9367dd13d1, type: 3}
+    personajeInvisible: 1
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "V\xE1monos.\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 6cdb3ff30c551bf468812ee8fe666fb1, type: 3}
+    Person2: {fileID: 21300000, guid: dc32f401de7d50c4e9f3596cabd0ad29, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}

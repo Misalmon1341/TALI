@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b584f805d8ca541b0e5b060eef85f4, type: 3}
+  m_Name: Escena3
+  m_EditorClassIdentifier: 
+  dialogueTurnsList:
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: Vamonos!!
+    Person1: {fileID: 21300000, guid: 7001bec378b267c42b452b060e82b1cf, type: 3}
+    Person2: {fileID: 1508600172, guid: 75aefd7e242645b4ab566cd744064849, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "\xBFMe das la  mano?"
+    Person1: {fileID: 21300000, guid: 877c806b7d0ea79428060444e96c25b8, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: No...andando
+    Person1: {fileID: 21300000, guid: 0d2ad052016b9c44296ad11aa5e4353b, type: 3}
+    Person2: {fileID: 1409860228, guid: d454c6ab5c899e042ae873a5e14f35bb, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: Camina
+    Person1: {fileID: 21300000, guid: d25c1a80482c9df4f9bdd875e751d3c5, type: 3}
+    Person2: {fileID: 1508600172, guid: 75aefd7e242645b4ab566cd744064849, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: Tch...camina
+    Person1: {fileID: 21300000, guid: d25c1a80482c9df4f9bdd875e751d3c5, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "Ya me cans\xE9... \xBFPodemos descansar un rato?"
+    Person1: {fileID: 21300000, guid: 877c806b7d0ea79428060444e96c25b8, type: 3}
+    Person2: {fileID: 1668437154, guid: 4b2096adc06936f408dfeb70254cca16, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: " No, tenemos que llegar a alg\xFAn lado.\r\n"
+    Person1: {fileID: 21300000, guid: 0d2ad052016b9c44296ad11aa5e4353b, type: 3}
+    Person2: {fileID: 1368346614, guid: d7ee4f9481624184ba69e71e9f1c5dcb, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: 'Pero
+
+'
+    Person1: {fileID: 21300000, guid: 7984f644e8b2aaf4aa4ae9241f3cb698, type: 3}
+    Person2: {fileID: 1508600172, guid: 75aefd7e242645b4ab566cd744064849, type: 3}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "\xBF\xA1Que no entiendes?! \xA1Camina!"
+    Person1: {fileID: 21300000, guid: d25c1a80482c9df4f9bdd875e751d3c5, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
