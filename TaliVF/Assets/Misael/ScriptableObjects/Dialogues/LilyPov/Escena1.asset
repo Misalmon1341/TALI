@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01b584f805d8ca541b0e5b060eef85f4, type: 3}
+  m_Name: Escena1
+  m_EditorClassIdentifier: 
+  dialogueTurnsList:
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "Vaya\u2026 todos se convirti\xF3 en un mont\xF3n de basura y polvo.
+      Y ella que puso tanto esfuerzo y tiempo en \xE9ste \nY ahora ya no es nada
+      m\xE1s que una monta\xF1a de escombros. \r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 7001bec378b267c42b452b060e82b1cf, type: 3}
+    Person2: {fileID: 1508600172, guid: 75aefd7e242645b4ab566cd744064849, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "Tch\u2026pat\xE9tico. Apuesto a que los dem\xE1s ni\xF1os estar\xE1n
+      llorando por \xE9ste lugar.\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 7984f644e8b2aaf4aa4ae9241f3cb698, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "Tengo miedo\u2026\xBFQu\xE9 pas\xF3 con la casa?\r\n\xBFQu\xE9
+      vamos a hacer? \xBFMam\xE1 y los dem\xE1s d\xF3nde est\xE1n?\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: e197baed25b0b9f498a1edf0a95130a3, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "\xBFPorqu\xE9 estar\xEDas asustada?...\xBFNo lo ves?\n\xC9ste
+      lugar ahora es nuestro, y no hay m\xE1s ni\xF1os molestos y podemos hacer lo
+      que queramos.\r\n\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 0d2ad052016b9c44296ad11aa5e4353b, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: " \xBFNo\u2026tienes miedo? \xBFPorqu\xE9 te alegra que no est\xE9n
+      los dem\xE1s ni\xF1os?\r\nNuestra casa est\xE1 destruida\u2026\r\n\xBFQu\xE9
+      vamos a hacer a hacer ahora?\r\n\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: e197baed25b0b9f498a1edf0a95130a3, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "Pues tendremos que encontrar otro lugar para vivir, no tiene sentido
+      quedarnos aqu\xED."
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 7984f644e8b2aaf4aa4ae9241f3cb698, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "\xBFNo dijiste que el lugar ahora es nuestro?"
+    isPerson1: 0
+    Person1: {fileID: 203199743, guid: 171cedcc2c56f9943a99f419e74cf852, type: 3}
+    Person2: {fileID: 1668437154, guid: 4b2096adc06936f408dfeb70254cca16, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: Obvio no, tonta.
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: d25c1a80482c9df4f9bdd875e751d3c5, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "\xBFEntonces nos iremos? No quiero\u2026"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 877c806b7d0ea79428060444e96c25b8, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "No tenemos otra opci\xF3n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 7984f644e8b2aaf4aa4ae9241f3cb698, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "Espera. Al menos llev\xE9monos un recuerdo\u2026\r\n\xBFNo quieres
+      llevarte algo preciado de aqu\xED?\r\nAlgo que quieras conservar\u2026\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 0d2ad052016b9c44296ad11aa5e4353b, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "Como si hubiera algo que valga la pena conservar\u2026\r\nV\xE1monos.\r\n\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 877c806b7d0ea79428060444e96c25b8, type: 3}
+    Person2: {fileID: 1409860228, guid: d454c6ab5c899e042ae873a5e14f35bb, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: "Al menos ay\xFAdame a buscar algo para m\xED, \xBFs\xED?\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: 7984f644e8b2aaf4aa4ae9241f3cb698, type: 3}
+    Person2: {fileID: -1452406177, guid: 8b1a1c2c43b178e46a64134d9e091690, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
+    dialogueLine: "De acuerdo\u2026pero que sea r\xE1pido.\r\nNo pienses que lo hago
+      por ti, s\xF3lo quiero que te calles.\r\n"
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: d25c1a80482c9df4f9bdd875e751d3c5, type: 3}
+    Person2: {fileID: 1508600172, guid: 75aefd7e242645b4ab566cd744064849, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+  - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
+    dialogueLine: Esta bien...
+    isPerson1: 0
+    Person1: {fileID: 21300000, guid: d25c1a80482c9df4f9bdd875e751d3c5, type: 3}
+    Person2: {fileID: 520602433, guid: 3f635272c85aeee4bb32c4a3eed58e6f, type: 3}
+    personajeInvisible: 0
+    hideImagePerson1: 0
+    hideImagePerson2: 0
+    dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
