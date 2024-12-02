@@ -8,4 +8,100 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/1.5JeremyPov.unity
+    guid: ff49bc10f0398cf4e9612f331187431b
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/1JeremyPov.unity
+    guid: cb90b0a241d814d429833072678357bc
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/2JeremyPov.unity
+    guid: 2dc429681e552ca4392d0b26e895e31f
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/3.5JeremyPov.unity
+    guid: fefc7cc4b9a2d684c831f8bf58433992
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/3JeremyPov.unity
+    guid: 1795bfd94dc201e43952302e3bbede6a
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/4.5JeremyPov.unity
+    guid: 5636036d2f6c5ba44b3b15888e5c2dd5
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/4JeremyPov.unity
+    guid: 179f62e38d1f18a4bb181312d8aef6ae
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/5JeremyPov.unity
+    guid: 71c8081087906204e955e4d68aaeb219
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/6JeremyPOV.unity
+    guid: 6135be61ca0ef0840bcc3b684f479936
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/7JeremyPov.unity
+    guid: ed01c2d728f9b0e43adb13cb19f21c86
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/8JeremyPov.unity
+    guid: 8cfd66752b83506408ea584204fc420c
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/9JeremyPov.unity
+    guid: b652f99d841d7444e94d3fbcd069895d
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/CartasScene1J.unity
+    guid: d7f317aebd527394dbbc3ca01cc43802
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/JeremyPov/CartasSceneJeremy.unity
+    guid: 177d0d13a50be44579826e3acadd0da7
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/CartasSceneL.unity
+    guid: 43f8c2273640d9b4688f1ca928f1f205
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LillyPOV1.unity
+    guid: 664b23bbbb6252c499641adb93d42430
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov2.unity
+    guid: b1416733f31640d49be1768fb90395d5
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov3.unity
+    guid: 3e72fc1ef8bbc954c8c376c53ce72334
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov4.unity
+    guid: 076f80ec9a94e644cb0f7a3e7758b1d9
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov4.3.unity
+    guid: 903735373ffd89b4bbbd68ae0c50dc1a
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/Lilypov5.unity
+    guid: e86b8ea8d037e3245b47038fd2a7cfcb
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov6.unity
+    guid: 62cb0948d971b7443bd4d641e1924304
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov7.unity
+    guid: 817ae6bed9f356e479cb9afef1f732e4
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov8.unity
+    guid: 6130d788d89d2d4429eb30778c1a697d
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov9.unity
+    guid: 3d6aff282950c8949a912621ad27d9db
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov10.unity
+    guid: be3437d4f4f0a344db64cf0cb4d534bd
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LilyPov11.unity
+    guid: 6854e91f22895e4488cdb630495074ff
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LyliPov4.5.unity
+    guid: 09f3c779d60dc86418a5cd92b2ed4a45
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LyliPov12.unity
+    guid: 7441f4871819eab4a91dcf940c930a8e
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LyliPov13.unity
+    guid: c73db4da4366bdc4bab67488f55f00ca
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LyliPov14.unity
+    guid: 08891708ad49b794dbcfc5930dafb1b1
+  - enabled: 1
+    path: Assets/Misael/scenasMisa/lILY/LyliPov15.unity
+    guid: 7f879dd08cd8dcf4682b1d61a2a654b0
   m_configObjects: {}

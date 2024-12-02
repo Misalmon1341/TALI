@@ -24,6 +24,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "V\xE1monos"
     isPerson1: 1
@@ -33,6 +34,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
     dialogueLine: "\xBFPuedo tomar tu mano?\r\n"
     isPerson1: 0
@@ -42,6 +44,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: No
     isPerson1: 1
@@ -51,6 +54,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "(Por m\xE1s que la deteste, debo de cuidar de ella de ahora en
       adelante, al menos hasta que encontremos a mi mam\xE1\u2026) \r\n"
@@ -61,6 +65,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: " Buenas noches. Disculpe, \xBFtendr\xE1 un poco de comida que
       pudiera darnos? "
@@ -71,6 +76,7 @@ MonoBehaviour:
     hideImagePerson1: 1
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 7e4dd5736fa525e45b58e23856c82381, type: 2}
     dialogueLine: "Ah\u2026no. Lo siento ni\xF1o. No puedo darte de mi pan.\r\n"
     isPerson1: 0
@@ -80,3 +86,4 @@ MonoBehaviour:
     hideImagePerson1: 1
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 1

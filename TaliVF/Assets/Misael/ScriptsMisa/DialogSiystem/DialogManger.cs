@@ -45,25 +45,51 @@ public class DialogManger : MonoBehaviour
         {
             var CurrentTurn = dialogueTurnsQueue.Dequeue();
 
-            if (CurrentTurn.IsPerson1)
+            if (CurrentTurn.KeepTextAndHideSprite)
             {
-                dialogueUI.SetCharacterInfo1(CurrentTurn.Character);
-                dialogueUI.SetPersonaje2Opacity(1f);
+                if (CurrentTurn.IsPerson1)
+                {
+                    dialogueUI.SetCharacterInfo1(CurrentTurn.Character);
+                    dialogueUI.SetPersonaje1Opacity(1f);
 
-                if (CurrentTurn.PersonajeInvisible)
-                    dialogueUI.SetPersonaje1Opacity(0f);
+                    if (CurrentTurn.PersonajeInvisible)
+                        dialogueUI.SetPersonaje2Opacity(0f);
+                    else
+                        dialogueUI.SetPersonaje2Opacity(0.7f);
+                }
                 else
-                    dialogueUI.SetPersonaje1Opacity(0.5f);
+                {
+                    dialogueUI.SetCharacterInfo2(CurrentTurn.Character);
+                    dialogueUI.SetPersonaje2Opacity(1f);
+
+                    if (CurrentTurn.PersonajeInvisible)
+                        dialogueUI.SetPersonaje1Opacity(0f);
+                    else
+                        dialogueUI.SetPersonaje1Opacity(0.7f);
+                }
             }
             else
             {
-                dialogueUI.SetCharacterInfo2(CurrentTurn.Character);
-                dialogueUI.SetPersonaje1Opacity(1f);
+                if (CurrentTurn.IsPerson1)
+                {
+                    dialogueUI.SetCharacterInfo1(CurrentTurn.Character);
+                    dialogueUI.SetPersonaje2Opacity(1f);
 
-                if (CurrentTurn.PersonajeInvisible)
-                    dialogueUI.SetPersonaje2Opacity(0f);
+                    if (CurrentTurn.PersonajeInvisible)
+                        dialogueUI.SetPersonaje1Opacity(0f);
+                    else
+                        dialogueUI.SetPersonaje1Opacity(0.7f);
+                }
                 else
-                    dialogueUI.SetPersonaje2Opacity(0.5f);
+                {
+                    dialogueUI.SetCharacterInfo2(CurrentTurn.Character);
+                    dialogueUI.SetPersonaje1Opacity(1f);
+
+                    if (CurrentTurn.PersonajeInvisible)
+                        dialogueUI.SetPersonaje2Opacity(0f);
+                    else
+                        dialogueUI.SetPersonaje2Opacity(0.7f);
+                }
             }
 
             dialogueUI.SetPersonImageVisibility(!CurrentTurn.HideImagePerson1, !CurrentTurn.HideImagePerson2);

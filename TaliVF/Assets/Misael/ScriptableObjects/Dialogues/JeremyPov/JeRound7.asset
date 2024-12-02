@@ -22,6 +22,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "\xA1Madre! \xBFD\xF3nde est\xE1s?, te estuve esperand\u2026"
     isPerson1: 1
@@ -31,6 +32,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
     dialogueLine: " \xA1Juguemos m\xE1s mam\xE1!\r\n"
     isPerson1: 0
@@ -40,6 +42,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 2579ee315c59f7d4390baaf20cee6e3a, type: 2}
     dialogueLine: "Tienes mucha energ\xEDa Lily\u2026"
     isPerson1: 1
@@ -47,8 +50,9 @@ MonoBehaviour:
     Person2: {fileID: 21300000, guid: 90388dd9476200b479735feeebfb63d2, type: 3}
     personajeInvisible: 0
     hideImagePerson1: 0
-    hideImagePerson2: 0
+    hideImagePerson2: 1
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 1
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "(\xBFM-mam\xE1\u2026?)"
     isPerson1: 1
@@ -58,6 +62,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: f1e74aa3990e7ab4885bf9d5beccd98f, type: 2}
     dialogueLine: "\xA1Mam\xE1 me duele!"
     isPerson1: 0
@@ -67,6 +72,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 2579ee315c59f7d4390baaf20cee6e3a, type: 2}
     dialogueLine: "Ya, ya Lily. Mam\xE1 est\xE1 aqu\xED para ti. "
     isPerson1: 1
@@ -76,6 +82,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 1
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 1
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "(Tch\u2026)\r\n\r\n"
     isPerson1: 1
@@ -85,6 +92,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "\r(D\xE9jala\u2026 ya no la atiendas m\xE1s\u2026\r\nS\xF3lo te
       aparta m\xE1s de m\xED\u2026)\r\n"
@@ -95,6 +103,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "(M\xEDrame a m\xED\u2026 cuida de m\xED\u2026)\r\n\r\n"
     isPerson1: 1
@@ -104,6 +113,7 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: 4d813c1b5c247f14d9d8bf164f3a20c4, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 905b5c51828720a42b7682bd860dbec3, type: 2}
     dialogueLine: "Qui\xE9reme a m\xED\u2026 "
     isPerson1: 1
@@ -113,21 +123,24 @@ MonoBehaviour:
     hideImagePerson1: 0
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 0
   - <Character>k__BackingField: {fileID: 11400000, guid: 4889972fd1e35274f80e518c99546591, type: 2}
     dialogueLine: "Ella jam\xE1s\u2026  ?!... "
     isPerson1: 0
-    Person1: {fileID: 21300000, guid: 6f5af7c2528659b4697eeff2e9ba0387, type: 3}
-    Person2: {fileID: 21300000, guid: 6f5af7c2528659b4697eeff2e9ba0387, type: 3}
+    Person1: {fileID: 21300000, guid: ea7b52346dafabe42b7e08eed5fbda68, type: 3}
+    Person2: {fileID: 21300000, guid: ea7b52346dafabe42b7e08eed5fbda68, type: 3}
     personajeInvisible: 0
     hideImagePerson1: 1
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 1
   - <Character>k__BackingField: {fileID: 11400000, guid: 4889972fd1e35274f80e518c99546591, type: 2}
     dialogueLine: "Ella jam\xE1s te am\xF3\u2026\r\n!!!..."
     isPerson1: 0
-    Person1: {fileID: 21300000, guid: 6f5af7c2528659b4697eeff2e9ba0387, type: 3}
-    Person2: {fileID: 21300000, guid: 6f5af7c2528659b4697eeff2e9ba0387, type: 3}
+    Person1: {fileID: 21300000, guid: ea7b52346dafabe42b7e08eed5fbda68, type: 3}
+    Person2: {fileID: 21300000, guid: ea7b52346dafabe42b7e08eed5fbda68, type: 3}
     personajeInvisible: 0
     hideImagePerson1: 1
     hideImagePerson2: 0
     dialogueFont: {fileID: 11400000, guid: fd4911b6028661c448fc448c5a770ac9, type: 2}
+    keepTextAndHideSprite: 1

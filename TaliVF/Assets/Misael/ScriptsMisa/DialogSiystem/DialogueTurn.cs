@@ -35,4 +35,6 @@ public class DialogueTurn
 
     [SerializeField] private TMP_FontAsset dialogueFont;
     public TMP_FontAsset DialogueFont => dialogueFont;
+    [SerializeField] private bool keepTextAndHideSprite;
+    public bool KeepTextAndHideSprite => keepTextAndHideSprite;
 }
